@@ -1,4 +1,4 @@
-public class Hello
+public class myhello
 {
 	public static void main(Sting[] args)
 	{
